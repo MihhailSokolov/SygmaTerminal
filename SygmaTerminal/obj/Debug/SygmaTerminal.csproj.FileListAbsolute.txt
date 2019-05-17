@@ -1,0 +1,26 @@
+c:\users\mihhail\documents\visual studio 2013\Projects\Visual C#\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.exe.config
+C:\Users\Mihhail\documents\visual studio 2013\Projects\Visual C#\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.exe
+C:\Users\Mihhail\documents\visual studio 2013\Projects\Visual C#\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.pdb
+C:\Users\Mihhail\documents\visual studio 2013\Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.csprojResolveAssemblyReference.cache
+C:\Users\Mihhail\documents\visual studio 2013\Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.exe
+C:\Users\Mihhail\documents\visual studio 2013\Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.pdb
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.exe.config
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.exe
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.pdb
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.exe
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.pdb
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.csprojResolveAssemblyReference.cache
+C:\Users\mihha\Box\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.exe.config
+C:\Users\mihha\Box\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.exe
+C:\Users\mihha\Box\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.pdb
+C:\Users\mihha\Box\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.csprojAssemblyReference.cache
+C:\Users\mihha\Box\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.csproj.CoreCompileInputs.cache
+C:\Users\mihha\Box\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.exe
+C:\Users\mihha\Box\Programming Projects\Visual C#\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.pdb
+C:\Users\mihha\Documents\Projects\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.exe.config
+C:\Users\mihha\Documents\Projects\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.exe
+C:\Users\mihha\Documents\Projects\SygmaTerminal\SygmaTerminal\bin\Debug\SygmaTerminal.pdb
+C:\Users\mihha\Documents\Projects\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.csprojAssemblyReference.cache
+C:\Users\mihha\Documents\Projects\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.csproj.CoreCompileInputs.cache
+C:\Users\mihha\Documents\Projects\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.exe
+C:\Users\mihha\Documents\Projects\SygmaTerminal\SygmaTerminal\obj\Debug\SygmaTerminal.pdb
